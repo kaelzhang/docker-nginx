@@ -1,6 +1,7 @@
-[![Build Status](https://travis-ci.org/kaelzhang/docker-nginx.svg?branch=master)](https://travis-ci.org/kaelzhang/docker-nginx)
+<!-- [![Build Status](https://travis-ci.org/kaelzhang/docker-nginx.svg?branch=master)](https://travis-ci.org/kaelzhang/docker-nginx) -->
+[![docker](https://img.shields.io/badge/docker-kaelz%2Fnginx-brightgreen.svg)](https://hub.docker.com/r/kaelz/nginx/)
 
-# kaelz/nginx
+# docker: kaelz/nginx
 
 The altered nginx docker image from the official one, which includes [headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module)
 
