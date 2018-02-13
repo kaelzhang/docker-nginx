@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kaelzhang/docker-nginx.svg?branch=master)](https://travis-ci.org/kaelzhang/docker-nginx)
+
 # kaelz/nginx
 
 The altered nginx docker image from the official one, which includes [headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module)

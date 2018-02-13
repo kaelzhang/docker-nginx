@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "kaelz/nginx",
+  "scripts": {
+    "build": "docker build -t kaelz/nginx:alpine",
+    "test": ,
+    "test-no-cov": "ava --verbose --timeout=10s"
+  },
+  "devDependencies": {
+    "ava": "^0.16.0"
+  }
+}
